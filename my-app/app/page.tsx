@@ -1,5 +1,5 @@
 import React from 'react'
-import Lizu from '@/app/lizu'
+import Lizu from './lizu'
 
 const page = () => {
   return (
